@@ -1,1 +1,2 @@
-web: gunicorn app:application
+web: gunicorn app:app
+worker: python autonix.py
