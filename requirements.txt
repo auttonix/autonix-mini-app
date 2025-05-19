@@ -19,4 +19,4 @@ okx==2.1.1
 numpy==1.26.4
 scipy==1.13.1
 email_validator==2.1.1
-python-telegram-bot==
+python-telegram-bot==22.0
