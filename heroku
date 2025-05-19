@@ -1,0 +1,12 @@
+heroku git:remote -a twb2
+
+
+git add .
+
+
+git commit -m "Initial commit"
+
+
+
+git push heroku master
+
